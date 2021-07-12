@@ -1,0 +1,13 @@
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.exe
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.deps.json
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.runtimeconfig.json
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.runtimeconfig.dev.json
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.dll
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\bin\Debug\netcoreapp3.1\DIOLab.Series.pdb
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.csprojAssemblyReference.cache
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.AssemblyInfoInputs.cache
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.AssemblyInfo.cs
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.csproj.CoreCompileInputs.cache
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.dll
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.pdb
+C:\Users\Wellington da Cruz\Desktop\DIO_lab-POO.net - Wellington\DIOLab.Series\obj\Debug\netcoreapp3.1\DIOLab.Series.genruntimeconfig.cache
